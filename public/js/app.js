@@ -1,0 +1,1 @@
+angular.module('signal', ['elasticsearch', 'ngMaterial']);
